@@ -18,11 +18,11 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🎓 B.Tech Computer Science Student at **The LNM Institute of Information Technology (LNMIIT)**
+ B.Tech Computer Science Student at **The LNM Institute of Information Technology (LNMIIT)**
 
-🤖 Passionate about
+ Passionate about
 
 - Artificial Intelligence
 - Machine Learning
@@ -31,9 +31,9 @@
 - Large Language Models (LLMs)
 - Computer Vision
 
-🚀 I enjoy building AI-powered applications that solve real-world problems.
+ I enjoy building AI-powered applications that solve real-world problems.
 
-🌱 Currently learning
+ Currently learning
 
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
@@ -41,11 +41,11 @@
 - Cloud Computing
 - Open Source Development
 
-💻 I regularly solve Data Structures & Algorithms problems on LeetCode.
+ I regularly solve Data Structures & Algorithms problems on LeetCode.
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -61,7 +61,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Programming Languages
 
@@ -105,7 +105,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -117,7 +117,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -127,7 +127,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -137,7 +137,7 @@
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -147,32 +147,31 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🧠 AI Threat Modeling | AI-controlled Cyber-Physical Systems threat analysis |
-| 🎙 Audio Deepfake Detection | Detecting synthetic voices using Deep Learning |
-| 🩺 Brain Tumor MRI Generation | Conditional Latent Diffusion Models for medical imaging |
-| 🤖 Generative AI Projects | LLMs, RAG, AI Agents & GenAI experiments |
-| 💻 LeetCode Solutions | Data Structures & Algorithms solutions |
-| 🍄 Mushroom Simulator | Game development project |
+|  AI Threat Modeling | AI-controlled Cyber-Physical Systems threat analysis |
+|  Audio Deepfake Detection | Detecting synthetic voices using Deep Learning |
+|  Brain Tumor MRI Generation | Conditional Latent Diffusion Models for medical imaging |
+|  Generative AI Projects | LLMs, RAG, AI Agents & GenAI experiments |
+|  LeetCode Solutions | Data Structures & Algorithms solutions |
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
-- 🤖 AI Agents
-- 🧠 LLM Fine-Tuning
-- ☁️ AWS & Cloud
-- ⚙️ Docker
-- 🚀 Kubernetes
-- 📦 MLOps
-- 🔥 Open Source Contributions
+-  AI Agents
+-  LLM Fine-Tuning
+-  AWS & Cloud
+-  Docker
+-  Kubernetes
+-  MLOps
+-  Open Source Contributions
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 - ✅ Solve 1000+ LeetCode Problems
 - ✅ Contribute to Open Source
@@ -183,7 +182,7 @@
 
 ---
 
-# 💡 Quote
+#  Quote
 
 > *"The best way to predict the future is to build it."*
 
