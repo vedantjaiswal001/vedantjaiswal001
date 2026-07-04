@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Vedant Jaiswal Banner"/>
+  <img src="./assets/github-banner.png" width="100%" alt="Vedant Jaiswal Banner"/>
 </p>
 
 <br>
@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Vedant Jaiswal
 
-### Building AI that solves real-world problems.
+### Building AI that solves real-world problems
 
 **AI • Machine Learning • Generative AI • LLMs • Computer Vision**
 
@@ -30,41 +30,39 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=vedantjaiswal001&style=flat&color=blue"/>
+
 </div>
 
 <br>
 <br>
 
----
+<h2 align="center"> About Me</h2>
 
-<br>
+<img align="right" width="330" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x5eXh1b2R6OHQ1aGZ2Z2Q2dDZpNTR4cGRjdHplN2RqN3VnZW40NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-<h2 align="center">👨🏻‍💻 About Me</h2>
+ **B.Tech Computer Science Student** @ **The LNM Institute of Information Technology (LNMIIT)**
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x5eXh1b2R6OHQ1aGZ2Z2Q2dDZpNTR4cGRjdHplN2RqN3VnZW40NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
+ Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
 
-🎓 **B.Tech Computer Science Student** @ LNMIIT
+ Exploring **Generative AI, LLMs, Computer Vision & AI Agents**
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+ Building AI-powered applications, research projects and intelligent systems
 
-🧠 Exploring **Generative AI, LLMs & Computer Vision**
+ Currently learning **RAG, MLOps, Cloud & Scalable AI Systems**
 
-🚀 Building AI-powered applications and research projects
-
-🌱 Currently learning **AI Agents, RAG & MLOps**
-
-💡 Always curious to learn new technologies and solve real-world problems.
+ Passionate about solving real-world problems through AI.
 
 <br clear="right"/>
 
 <br>
 <br>
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2 align="center"> Current Focus</h2>
 
 <div align="center">
 
-| 🔬 Research | 🚀 Building |
+|  Research |  Building |
 |:-----------:|:-----------:|
 | AI Threat Modeling | AI Agents |
 | Brain Tumor MRI Generation | Generative AI |
@@ -76,29 +74,17 @@
 <br>
 <br>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,react,nodejs,html,css,javascript,mysql,git,github,docker,linux,vscode"/>
 </p>
 
 <br>
 
 <div align="center">
 
-### 💡 Favorite Technologies
+###  Favorite Technologies
 
 **Python** • **PyTorch** • **TensorFlow** • **LLMs** • **Generative AI**
 
@@ -115,45 +101,29 @@
 <br>
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjaiswal001&theme=github-dark&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjaiswal001&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vedantjaiswal001&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=vedantjaiswal001&theme=github-dark&hide_border=true"/>
 </p>
 
 <br>
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-
-<a href="https://github.com/USERNAME/REPO1">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/USERNAME/REPO2">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=github_dark&hide_border=true"/>
-</a>
-
-</p>
+---
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/USERNAME/REPO3">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO3&theme=github_dark&hide_border=true"/>
-</a>
+### ⭐ Thanks for visiting!
 
-<a href="https://github.com/USERNAME/REPO4">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO4&theme=github_dark&hide_border=true"/>
-</a>
+*"Building AI that solves real-world problems through innovation and continuous learning."*
 
-</p>
+</div>
