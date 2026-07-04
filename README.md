@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" alt="Vedant Jaiswal Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vedant Jaiswal</h1>
 
 <h3 align="center">
