@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║   CUSTOM HAND-CRAFTED ANIMATED HERO — one of a kind ✦             ║
+     ║   CUSTOM HAND-CRAFTED ANIMATED HERO — one of a kind               ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Vedant Jaiswal — AI Engineer"/>
@@ -7,7 +7,7 @@
 
 <!-- ── TYPING ── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=%3E+Initializing+neural+networks...+done+%E2%9C%93;%3E+Loading+GenAI+%2B+LLMs+%2B+Computer+Vision...+done+%E2%9C%93;%3E+Mission%3A+solve+real-world+problems+with+AI;%3E+Status%3A+always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=720&lines=%3E+Initializing+neural+networks...+done+%E2%9C%93;%3E+Loading+GenAI+%2B+LLMs+%2B+Computer+Vision...+done+%E2%9C%93;%3E+Mission%3A+solve+real-world+problems+with+AI;%3E+Status%3A+always+learning%2C+always+shipping" alt="Typing"/>
 </p>
 
 <!-- ── SOCIALS ── -->
@@ -36,7 +36,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      ║   TERMINAL PROFILE                                                ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">⬢ &nbsp;S Y S T E M &nbsp;·&nbsp; P R O F I L E&nbsp; ⬢</h2>
+<h2 align="center">S Y S T E M &nbsp;·&nbsp; P R O F I L E</h2>
 
 ```text
 vedant@lnmiit:~$ neofetch
@@ -64,32 +64,32 @@ vedant@lnmiit:~$ _
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      ║   TECH UNIVERSE — native Mermaid mind-map                         ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">⬢ &nbsp;T E C H &nbsp;·&nbsp; U N I V E R S E&nbsp; ⬢</h2>
+<h2 align="center">T E C H &nbsp;·&nbsp; U N I V E R S E</h2>
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#8E2DE2','primaryTextColor':'#fff','lineColor':'#00D4FF'}}}%%
 mindmap
-  root((🧠 VEDANT))
-    🤖 AI / ML
+  root((VEDANT))
+    AI / ML
       PyTorch
       TensorFlow
       Scikit-Learn
       Hugging Face
-    ✨ GenAI
+    GenAI
       LLMs
       RAG
       LangChain
       AI Agents
-    👁️ Computer Vision
+    Computer Vision
       OpenCV
       GANs & Diffusion
       Medical Imaging
-    💻 Languages
+    Languages
       Python
       C++ / C
       Java
       JavaScript · SQL
-    🛠️ Dev & Ops
+    Dev & Ops
       Docker
       Git · Linux
       React · Node.js
@@ -107,21 +107,21 @@ mindmap
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      ║   MISSION CONTROL                                                 ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">⬢ &nbsp;M I S S I O N &nbsp;·&nbsp; C O N T R O L&nbsp; ⬢</h2>
+<h2 align="center">M I S S I O N &nbsp;·&nbsp; C O N T R O L</h2>
 
 <div align="center">
 
 | STATUS | MISSION | PAYLOAD | PROGRESS |
 |:------:|---------|---------|:---------|
-| 🟣 | **AI Threat Modeling** | Securing AI against adversarial attacks | `▰▰▰▰▰▰▱▱▱▱` |
-| 🟣 | **Brain Tumor MRI Generation** | GANs & Diffusion for medical imaging | `▰▰▰▰▰▰▰▱▱▱` |
-| 🟣 | **Audio Deepfake Detection** | Fighting synthetic media with DL | `▰▰▰▰▰▱▱▱▱▱` |
-| 🔵 | **AI Agents** | Autonomous systems that reason & act | `▰▰▰▰▰▰▱▱▱▱` |
-| 🔵 | **Generative AI Apps** | LLM-powered applications | `▰▰▰▰▰▰▰▰▱▱` |
-| 🔵 | **Open Source** | Giving back to the community | `▰▰▰▰▱▱▱▱▱▱` |
-| 🟢 | **DSA Grind** | Sharpening fundamentals daily | `▰▰▰▰▰▰▰▱▱▱` |
+| `RESEARCH` | **AI Threat Modeling** | Securing AI against adversarial attacks | `▰▰▰▰▰▰▱▱▱▱` |
+| `RESEARCH` | **Brain Tumor MRI Generation** | GANs & Diffusion for medical imaging | `▰▰▰▰▰▰▰▱▱▱` |
+| `RESEARCH` | **Audio Deepfake Detection** | Fighting synthetic media with DL | `▰▰▰▰▰▱▱▱▱▱` |
+| `BUILDING` | **AI Agents** | Autonomous systems that reason & act | `▰▰▰▰▰▰▱▱▱▱` |
+| `BUILDING` | **Generative AI Apps** | LLM-powered applications | `▰▰▰▰▰▰▰▰▱▱` |
+| `BUILDING` | **Open Source** | Giving back to the community | `▰▰▰▰▱▱▱▱▱▱` |
+| `DAILY` | **DSA Grind** | Sharpening fundamentals daily | `▰▰▰▰▰▰▰▱▱▱` |
 
-<sub>🟣 research &nbsp;·&nbsp; 🔵 building &nbsp;·&nbsp; 🟢 daily ritual — bars update as missions progress</sub>
+<sub>bars update as missions progress</sub>
 
 </div>
 
@@ -130,7 +130,7 @@ mindmap
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      ║   TELEMETRY                                                       ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">⬢ &nbsp;T E L E M E T R Y&nbsp; ⬢</h2>
+<h2 align="center">T E L E M E T R Y</h2>
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=vedantjaiswal001&theme=tokyonight&hide_border=true&background=0d1117&ring=8E2DE2&fire=00D4FF&currStreakLabel=00D4FF"/>
@@ -150,7 +150,7 @@ mindmap
 <!-- ╔══════════════════════════════════════════════════════════════════╗
      ║   OUTRO                                                           ║
      ╚══════════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">⬢ &nbsp;T R A N S M I S S I O N &nbsp;·&nbsp; E N D&nbsp; ⬢</h2>
+<h2 align="center">T R A N S M I S S I O N &nbsp;·&nbsp; E N D</h2>
 
 ```text
 vedant@lnmiit:~$ echo $MISSION
@@ -162,12 +162,12 @@ vedant@lnmiit:~$ ./collaborate --with you
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedjais/">
-    <img src="https://img.shields.io/badge/⚡_Accept_Handshake_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Accept_Handshake_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  ⭐ <b>Star a repo if something caught your eye — it fuels the mission.</b> ⭐
+  <b>Star a repo if something caught your eye — it fuels the mission.</b>
 </p>
 
 <p align="center">
