@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Vedant Jaiswal
 
-<!--
-**vedantjaiswal001/vedantjaiswal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Student at LNMIIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Passionate about Artificial Intelligence, Machine Learning, Generative AI, LLMs, and Computer Vision.
+
+ Currently learning:
+- AI Agents
+- RAG
+- MLOps
+- Cloud Computing
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- C++
+- TensorFlow
+- PyTorch
+- OpenCV
+- Git
+- Linux
+- SQL
+
+---
+
+## 📚 Currently Working On
+
+- AI Research
+- Deep Learning Projects
+- LeetCode
+- Open Source
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/vedjais
+- Email: jaiswalvedant2004@gmail.com
+
+⭐ Thanks for visiting my profile!
