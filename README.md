@@ -2,6 +2,8 @@
   <img src="assets/github-banner.png" width="100%" alt="Vedant Jaiswal Banner"/>
 </p>
 
+<br>
+
 <div align="center">
 
 # 👋 Hi, I'm Vedant Jaiswal
@@ -29,30 +31,40 @@
 </a>
 
 </div>
+
+<br>
+<br>
+
 ---
 
-## 👨🏻‍💻 About Me
+<br>
+
+<h2 align="center">👨🏻‍💻 About Me</h2>
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x5eXh1b2R6OHQ1aGZ2Z2Q2dDZpNTR4cGRjdHplN2RqN3VnZW40NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
- **B.Tech Computer Science Student** @ LNMIIT
+🎓 **B.Tech Computer Science Student** @ LNMIIT
 
- Passionate about **Artificial Intelligence & Machine Learning**
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
- Exploring **Generative AI, LLMs & Computer Vision**
+🧠 Exploring **Generative AI, LLMs & Computer Vision**
 
- Building AI-powered applications and research projects
+🚀 Building AI-powered applications and research projects
 
- Currently learning **AI Agents, RAG & MLOps**
+🌱 Currently learning **AI Agents, RAG & MLOps**
 
- Always curious to learn new technologies and solve real-world problems.
+💡 Always curious to learn new technologies and solve real-world problems.
 
+<br clear="right"/>
 
- <h2 align="center"> Current Focus</h2>
+<br>
+<br>
+
+<h2 align="center">🚀 Current Focus</h2>
 
 <div align="center">
 
-|  Research |  Building |
+| 🔬 Research | 🚀 Building |
 |:-----------:|:-----------:|
 | AI Threat Modeling | AI Agents |
 | Brain Tumor MRI Generation | Generative AI |
@@ -60,6 +72,9 @@
 | Computer Vision | DSA & Problem Solving |
 
 </div>
+
+<br>
+<br>
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
@@ -83,9 +98,9 @@
 
 <div align="center">
 
-###  Favorite Technologies
+### 💡 Favorite Technologies
 
- **Python** •  **PyTorch** •  **TensorFlow** •  **LLMs** •  **Generative AI**
+**Python** • **PyTorch** • **TensorFlow** • **LLMs** • **Generative AI**
 
 </div>
 
@@ -97,6 +112,9 @@
 
 </div>
 
+<br>
+<br>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -107,4 +125,35 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vedantjaiswal001&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<br>
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/USERNAME/REPO1">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/USERNAME/REPO2">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=github_dark&hide_border=true"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/USERNAME/REPO3">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO3&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/USERNAME/REPO4">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO4&theme=github_dark&hide_border=true"/>
+</a>
+
 </p>
