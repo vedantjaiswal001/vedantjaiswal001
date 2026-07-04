@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Jaiswal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Enthusiast;LLMs+%7C+Computer+Vision;Open+Source+Contributor;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI;Open+Source+Contributor" />
 </p>
 
 <p align="center">
