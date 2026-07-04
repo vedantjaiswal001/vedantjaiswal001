@@ -1,0 +1,118 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Soft pastel gradient for the name -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F49FBC">
+        <animate attributeName="stop-color" values="#F49FBC;#B39DDB;#8FC8E8;#F49FBC" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#B39DDB">
+        <animate attributeName="stop-color" values="#B39DDB;#8FC8E8;#F49FBC;#B39DDB" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8FC8E8">
+        <animate attributeName="stop-color" values="#8FC8E8;#F49FBC;#B39DDB;#8FC8E8" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="underline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD3E0"/>
+      <stop offset="50%" stop-color="#C9B6E4"/>
+      <stop offset="100%" stop-color="#B5EAD7"/>
+    </linearGradient>
+
+    <filter id="soften" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="blobBlur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <!-- Cream background -->
+  <rect width="1000" height="320" rx="18" fill="#FFF9F5"/>
+
+  <!-- Dreamy pastel blobs -->
+  <ellipse cx="130" cy="60" rx="150" ry="90" fill="#FFD3E0" opacity="0.55" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="130;180;130" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;90;60" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="880" cy="90" rx="160" ry="100" fill="#C9B6E4" opacity="0.5" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="880;830;880" dur="14s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="500" cy="300" rx="230" ry="90" fill="#B5EAD7" opacity="0.45" filter="url(#blobBlur)">
+    <animate attributeName="cy" values="300;270;300" dur="11s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="260" cy="280" rx="130" ry="70" fill="#FFDAC1" opacity="0.5" filter="url(#blobBlur)">
+    <animate attributeName="cx" values="260;310;260" dur="13s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="760" cy="270" rx="120" ry="70" fill="#AEE1F9" opacity="0.45" filter="url(#blobBlur)">
+    <animate attributeName="cy" values="270;300;270" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Floating petals -->
+  <g>
+    <circle cx="150" cy="-10" r="5" fill="#F8A5C2" opacity="0.7">
+      <animate attributeName="cy" values="-10;330" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="150;180;150;120;150" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="-10" r="4" fill="#C9A7EB" opacity="0.7">
+      <animate attributeName="cy" values="-10;330" dur="13s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="420;450;420;390;420" dur="13s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="-10" r="5" fill="#9FE3C6" opacity="0.7">
+      <animate attributeName="cy" values="-10;330" dur="12s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="650;620;650;680;650" dur="12s" begin="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="850" cy="-10" r="4" fill="#FFC49B" opacity="0.7">
+      <animate attributeName="cy" values="-10;330" dur="10s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="850;880;850;820;850" dur="10s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="-10" r="3.5" fill="#9CCDF0" opacity="0.7">
+      <animate attributeName="cy" values="-10;330" dur="14s" begin="6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="300;330;300;270;300" dur="14s" begin="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Twinkling sparkles -->
+  <g fill="#FFFFFF">
+    <path d="M 200 130 l 3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z" opacity="0.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 790 110 l 2.5 7 7 2.5 -7 2.5 -2.5 7 -2.5 -7 -7 -2.5 7 -2.5 z" opacity="0.9">
+      <animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 720 230 l 2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2 z" opacity="0.8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" begin="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Greeting -->
+  <text x="500" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#A98CB8" text-anchor="middle">
+    hello, i&#8217;m
+  </text>
+
+  <!-- NAME -->
+  <text x="500" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="bold" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="3" filter="url(#soften)">
+    Vedant Jaiswal
+  </text>
+
+  <!-- Soft underline sweep -->
+  <rect x="330" y="200" width="0" height="5" rx="2.5" fill="url(#underline)">
+    <animate attributeName="width" values="0;340;340;0" keyTimes="0;0.35;0.8;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="330;330;330;500" keyTimes="0;0.35;0.8;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="500" y="245" font-family="Verdana, Arial, sans-serif" font-size="17" fill="#8D7B9E" text-anchor="middle" letter-spacing="4">
+    AI  ·  MACHINE LEARNING  ·  GENAI  ·  COMPUTER VISION
+  </text>
+
+  <!-- Small footer note -->
+  <text x="500" y="285" font-family="Georgia, serif" font-size="14" font-style="italic" fill="#C0A9CE" text-anchor="middle">
+    building gentle intelligence for a better world
+  </text>
+
+  <!-- Soft border -->
+  <rect x="6" y="6" width="988" height="308" rx="16" fill="none" stroke="#F0DDE8" stroke-width="2"/>
+</svg>
