@@ -47,7 +47,21 @@
 
  Always curious to learn new technologies and solve real-world problems.
 
- <h2 align="center"> Tech Stack </h2>
+
+ <h2 align="center"> Current Focus</h2>
+
+<div align="center">
+
+|  Research |  Building |
+|:-----------:|:-----------:|
+| AI Threat Modeling | AI Agents |
+| Brain Tumor MRI Generation | Generative AI |
+| Audio Deepfake Detection | Open Source |
+| Computer Vision | DSA & Problem Solving |
+
+</div>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
@@ -58,9 +72,39 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,mysql" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+<br>
+
+<div align="center">
+
+###  Favorite Technologies
+
+ **Python** •  **PyTorch** •  **TensorFlow** •  **LLMs** •  **Generative AI**
+
+</div>
+
+<br>
+
+<div align="center">
+
+> *"Building intelligent systems with AI, one project at a time."*
+
+</div>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjaiswal001&theme=github-dark&hide_border=true&area=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedantjaiswal001&theme=github-dark-blue&hide_border=true"/>
 </p>
