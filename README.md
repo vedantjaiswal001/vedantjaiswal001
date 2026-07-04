@@ -1,53 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vedant Jaiswal</h1>
 
+<h3 align="center">
+AI/ML Engineer • Generative AI • LLMs • Computer Vision
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI;Open+Source+Contributor" />
+Building intelligent systems with Machine Learning and Artificial Intelligence.
 </p>
 
 <p align="center">
-  <a href="https://github.com/vedantjaiswal001">
-    <img src="https://komarev.com/ghpvc/?username=vedantjaiswal001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/vedantjaiswal001?tab=followers">
-    <img src="https://img.shields.io/github/followers/vedantjaiswal001?style=for-the-badge&logo=github" />
-  </a>
-
-  <img src="https://img.shields.io/github/stars/vedantjaiswal001?style=for-the-badge" />
-</p>
-
----
-
-#  About Me
-
- B.Tech Computer Science Student at **The LNM Institute of Information Technology (LNMIIT)**
-
- Passionate about
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Computer Vision
-
- I enjoy building AI-powered applications that solve real-world problems.
-
- Currently learning
-
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-- Cloud Computing
-- Open Source Development
-
- I regularly solve Data Structures & Algorithms problems on LeetCode.
-
----
-
-#  Connect With Me
-
-<p align="left">
 
 <a href="https://www.linkedin.com/in/vedjais/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -57,136 +18,150 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://www.kaggle.com/vedantjaiswal001">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=vedantjaiswal001&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
-#  Tech Stack
+# 🚀 About Me
 
-### Programming Languages
+🎓 B.Tech Computer Science Student at **The LNM Institute of Information Technology (LNMIIT)**
+
+I'm passionate about building AI-powered applications that solve real-world problems.
+
+### 🔬 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 💬 Large Language Models (LLMs)
+- 🎨 Generative AI
+- 👁️ Computer Vision
+- ☁️ AI Agents & RAG
+- 📊 Data Science
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
-
 </p>
 
-### AI / Machine Learning
+### AI / ML
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
 </p>
 
 ### Web Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs"/>
 </p>
 
 ### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
-
 </p>
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantjaiswal001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjaiswal001&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-#  GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantjaiswal001&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-#  GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedantjaiswal001&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
-
-#  Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjaiswal001&theme=tokyo-night"/>
-
-</p>
-
----
-
-#  Featured Projects
+# 📂 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-|  AI Threat Modeling | AI-controlled Cyber-Physical Systems threat analysis |
-|  Audio Deepfake Detection | Detecting synthetic voices using Deep Learning |
-|  Brain Tumor MRI Generation | Conditional Latent Diffusion Models for medical imaging |
-|  Generative AI Projects | LLMs, RAG, AI Agents & GenAI experiments |
-|  LeetCode Solutions | Data Structures & Algorithms solutions |
+|----------|-------------|
+| 🧠 AI Threat Modeling | Threat analysis for AI-controlled cyber-physical systems |
+| 🎙️ Audio Deepfake Detection | Detecting synthetic speech using deep learning |
+| 🩺 Brain Tumor MRI Generation | Conditional latent diffusion model for medical image synthesis |
+| 🤖 Generative AI Projects | LLMs, RAG, AI Agents & Prompt Engineering |
+| 🍄 Mushroom Simulator | Simulation game inspired by mushroom farming |
+| 💻 DSA & Algorithms | Clean implementations of data structures and algorithms |
 
 ---
 
-#  Currently Learning
+# 🌱 Currently Learning
 
--  AI Agents
--  LLM Fine-Tuning
--  AWS & Cloud
--  Docker
--  Kubernetes
--  MLOps
--  Open Source Contributions
-
----
-
-#  2026 Goals
-
-- ✅ Solve 1000+ LeetCode Problems
-- ✅ Contribute to Open Source
-- ✅ Publish AI Research Projects
-- ✅ Build End-to-End AI Applications
-- ✅ Master Generative AI
-- ✅ Secure an AI/ML Internship
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Docker
+- Kubernetes
+- AWS
+- Advanced Deep Learning
 
 ---
 
-#  Quote
+# 🎯 Goals
 
-> *"The best way to predict the future is to build it."*
+- 🚀 Build production-ready AI applications
+- 📄 Publish AI research
+- 🤝 Contribute to Open Source
+- 🧠 Master Generative AI & LLMs
+- 💼 Secure an AI/ML Internship
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+# 🏆 GitHub Achievements
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://github-profile-trophy.vercel.app/?username=vedantjaiswal001&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vedantjaiswal001&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjaiswal001&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vedjais/
+- 📊 Kaggle: https://www.kaggle.com/vedantjaiswal001
+- 📧 Email: jaiswalvedant2004@gmail.com
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
+
+<p align="center">
+
+<i>Always Learning • Always Building • Always Improving</i>
+
 </p>
